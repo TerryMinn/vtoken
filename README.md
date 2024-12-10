@@ -29,4 +29,4 @@ Install vtoken with pnpm
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/terryminn)
+- [@terryminn](https://www.github.com/terryminn)
